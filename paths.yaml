@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/joperez/joperez-EDS-UE-Demo/:/
+ - /content/joperez/joperez-EDS-UE-Demo/metadata.json:/metadata.json
+ - /content/joperez/joperez-EDS-UE-Demo/redirects.json:/redirects.json
